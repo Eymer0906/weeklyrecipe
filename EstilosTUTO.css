@@ -1,0 +1,30 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif; /* Cambiar la fuente según tus preferencias */
+    line-height: 1.6;
+}
+
+header {
+    
+    color: #080404; /* Cambiar color de texto del encabezado */
+    padding: 20px;
+    background-image:url(platos.jpg);
+}
+main {
+    padding: 20px;
+}
+h1 {
+    font-family: Georgia, serif;
+    margin:auto;
+    padding: 0;
+}
+ol  {
+
+    
+
+
+}
